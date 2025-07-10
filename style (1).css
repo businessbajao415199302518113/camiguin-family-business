@@ -1,0 +1,52 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Welcome | JB Eatery, J&A Transportation, Marilyn Store</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="jb-logo.jpg" alt="JB Eatery Logo" style="max-width: 200px; border-radius: 10px;" />
+    <h1>Welcome to Our Family Businesses</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="business">
+    <h2>🍽️ JB Eatery</h2>
+    <p>Delicious homemade meals available and our very own specialty BULALO, RM (known as Remember Me) & BALBACUA. Just feel free to dine-in, takeout, or delivery.</p>
+    <p><strong>See Menu:</strong> Special Bulalo, RM, Balbacua, Batchoy, Paklai, Beef Steak, Sinugbang Baboy, Atay ng Manok with Boiled Egg, Fresh Pancit, Adobong Manok, Pakbet, Longanissa, Menudo, Bicol Express, Fried Fish, Inon-Onan, Fried Chicken, Nokos, Fried Maranai, Ampalaya with Egg & Talong.</p>
+  </section>
+
+  <section class="business">
+    <h2>🚐 J&A Transportation</h2>
+    <p>Reliable rides and transportation services across Camiguin Island with a driver full of information and amazing adventures to discover.</p>
+    <p><a href="tel:09173260147">Book a Ride: Call 0917-326-0147</a></p>
+  </section>
+
+  <section class="business">
+    <h2>🛒 Marilyn Store</h2>
+    <p>Your friendly neighborhood mini sari-sari store with various daily needs.</p>
+    <p><strong>Visit:</strong> Purok 2, Magting, Mambajao, Camiguin</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 JB Eatery | J&A Transportation | Marilyn Store</p>
+    <div class="social-media">
+      <a href="https://facebook.com/bulaloandinasal" target="_blank">Facebook</a>
+      <a href="https://instagram.com" target="_blank">Instagram</a>
+      <a href="https://tiktok.com" target="_blank">TikTok</a>
+      <a href="https://youtube.com" target="_blank">YouTube</a>
+      <a href="https://threads.net" target="_blank">Threads</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
